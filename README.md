@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @OnFaber
-- 👀 I’m interested in get experience working on simply project, share what i've learn and make treasure about all suggest from experienced people
 - 🌱 I’m currently learning Python
 
 
