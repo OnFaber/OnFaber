@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OnFaber
+
 - 🌱 I’m currently learning Django
 
 
