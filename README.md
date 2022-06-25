@@ -1,5 +1,5 @@
 
-- 🌱 I’m currently learning Flask
+- 🌱 I’m currently learning Django
 
 
 <!---
