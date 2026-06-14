@@ -4,7 +4,7 @@
 ### 🔨 Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,sass,bootstrap&perline=8)](https://skillicons.dev)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OnFaver&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OnFaber&layout=compact)
 
 <!--
 **OnFaber/OnFaber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
