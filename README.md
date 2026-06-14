@@ -1,4 +1,4 @@
-👋 Ciao!  I'm an Italian passionate Front-End Development. <br>
+👋 Ciao!  I'm an Italian passionate in Front-End Development. <br>
 👨‍💻 Building Interfaces, Web Apps and exploring new tech. Let's build something awesome together!
 
 ### 🔨 Languages and Tools:
